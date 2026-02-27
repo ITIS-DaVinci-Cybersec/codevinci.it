@@ -13,8 +13,8 @@ A CTF team website built with [Hugo](https://gohugo.io/) and [PaperMod](https://
 
 ```bash
 # Clone the repository
-git clone https://github.com/codevinci/codevinci.github.io.git
-cd codevinci.github.io
+git clone https://github.com/ITIS-DaVinci-Cybersec/codevinci.it.git
+cd codevinci.it
 
 # Run local server
 hugo server -D

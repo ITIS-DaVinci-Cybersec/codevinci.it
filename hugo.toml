@@ -20,6 +20,13 @@ googleAnalytics = "G-05V46SQ3PV"
     disableXML = true
     minifyOutput = true
 
+[buymeacoffee]
+  identifier = "benjaminnn"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#7C3AED"
+  globalWidgetPosition = "Right"
+
 [params]
     env = "production"
     title = "CodeVinci"
